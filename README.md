@@ -1,1 +1,1 @@
-piyohugahoge
+foo:bar
